@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# App data
+data/
+history.db
+
+# User captures (defaults)
+Pictures/ScreenCraft/
+Videos/ScreenCraft/
+
+# System
+.DS_Store
+.vscode/
+
+# Temporary frames
+screencraft_*/
+frame_*.png
